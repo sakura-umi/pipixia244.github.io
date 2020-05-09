@@ -1,7 +1,3 @@
-/*
- * Live2D Widget
- * https://github.com/stevenjoezhang/live2d-widget
- */
 
 function loadWidget(config) {
 	let { waifuPath, apiPath, cdnPath } = config;
